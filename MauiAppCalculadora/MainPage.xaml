@@ -105,7 +105,7 @@
                     Clicked="num0_Clicked" />
             <Button Grid.Row="5" Grid.Column="2"
                     Style="{StaticResource BotaoClaro}"
-                    x:Name="ponto" Text="."
+                    x:Name="ponto" Text=","
                     Clicked="ponto_Clicked" />
             <Button Grid.Row="5" Grid.Column="3"
                     Style="{StaticResource BotaoLaranja}"
